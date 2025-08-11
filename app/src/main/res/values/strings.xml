@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LightShow</string>
+    <string name="start_stop_light_show">Start/Stop Light Show</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="white">White</string>
+    <string name="yellow">Yellow</string>
+    <string name="pink">Pink</string>
+    <string name="green">Green</string>
+    <string name="random">Random</string>
+</resources>
